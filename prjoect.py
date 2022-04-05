@@ -1,3 +1,8 @@
+#min : 0.82 km pour PARIS 02 (75002)
+#premier quartile : 187.15 km pour PONT SUR SAMBRE (59138) 318.88 km pour BELLEFONTAINE (88370) 
+           # médiane : 318.88 km pour BELLEFONTAINE (88370)
+#troisième quartile : 459.81 km pour QUEYSSAC (24140)
+               # max : 9422.32 km pour ST PHILIPPE (97442)
 ello = "ello"
 # read csv file
 import csv
